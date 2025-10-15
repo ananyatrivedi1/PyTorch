@@ -4,23 +4,23 @@ Here’s a descriptive README template you can use for your PyTorch course notes
 
 ***
 
-# PyTorch Deep Learning – Zero to Mastery Course
+# PyTorch Deep Learning
 
-Welcome to my journey through the **Zero to Mastery PyTorch Deep Learning** course! This repo features my structured notes, in-depth assignment solutions, and end-to-end PyTorch code produced while exploring foundational and advanced topics in deep learning.
+Welcome to my journey through the **PyTorch Deep Learning** course! This repo features my structured notes, in-depth assignment solutions, and end-to-end PyTorch code produced while exploring foundational and advanced topics in deep learning.
 
 ## 🚀 About the Course
 
 This course is a comprehensive hands-on dive into PyTorch fundamentals, deep learning workflows, and real-world machine learning project-building. Along the way, you’ll find a mix of theory and application—solutions span Jupyter/Colab notebooks, scripts, and commentary, all tailored for both beginners and those looking to deepen their understanding of PyTorch.
 
-- **Platform:** [LearnPyTorch.io](https://www.learnpytorch.io/)
-- **Course GitHub:** [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/)
-
 ***
 
 ## 📑 Table of Contents
 
+**Completed so far:**
 - `00_pytorch_fundamentals/` – Core tensor operations, basic PyTorch constructs, and groundwork for deep learning models.
 - `01_pytorch_workflow/` – Step-by-step workflow for structuring and building neural networks with PyTorch.
+
+**In progress:**
 - `02_pytorch_classification/` – A full machine learning classification workflow: data preparation, model building/training, and evaluation.
 - `03_pytorch_computer_vision/` – Applying PyTorch to image classification and basic computer vision tasks.
 - `04_pytorch_custom_datasets/` – Creating, loading, and using custom datasets for unique problem domains.
@@ -29,10 +29,6 @@ This course is a comprehensive hands-on dive into PyTorch fundamentals, deep lea
 - `07_pytorch_experiment_tracking/` – Tools and strategies for managing and tracking model experiments and results.
 - `08_pytorch_paper_replicating/` – End-to-end replication of a research paper: code, results, insights.
 - `09_pytorch_model_deployment/` – How to deploy PyTorch models and make them accessible for real-world use.
-- `pytorch_2_intro/` – Short introduction and hands-on summary of PyTorch 2.0’s major updates.
-- `pytorch_extra_resources/` – Curated links to resources for further study (NLP, time series, ML engineering).
-- `pytorch_cheatsheet/` – Quick reference of the most useful PyTorch API patterns and functions.
-- `pytorch_most_common_errors/` – Debugging help: common mistakes and how to avoid them.
 
 ***
 
@@ -67,16 +63,5 @@ By working through this notebook series, you’ll master:
 
 ***
 
-## 📧 Feedback & Collaboration
-
-If you have questions, want to collaborate, or spot an area for clarification, feel free to open an issue or reach out!
-
-***
-
-*(Inspired by Zero to Mastery’s open-source PyTorch curriculum. This repo is a personal learning archive—contributions, corrections, and suggestions are welcome!)*
-
-***
-
-Let me know if you’d like any additional customization—such as badges, environment setup, or sample markdown code blocks for your notes!
-
-[1](https://www.learnpytorch.io/)
+- **Platform:** [LearnPyTorch.io](https://www.learnpytorch.io/)
+- **Course GitHub:** [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning/)
