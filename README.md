@@ -1,12 +1,6 @@
-# PyTorch
-
-Here’s a descriptive README template you can use for your PyTorch course notes, assignments, and code on GitHub, based on the structure and content of the “Zero to Mastery Learn PyTorch for Deep Learning” curriculum:
-
-***
-
 # PyTorch Deep Learning
 
-Welcome to my journey through the **PyTorch Deep Learning** course! This repo features my structured notes, in-depth assignment solutions, and end-to-end PyTorch code produced while exploring foundational and advanced topics in deep learning.
+Welcome to my journey through **PyTorch Deep Learning** ...learning journey! This repo features my structured notes, in-depth assignment solutions, and end-to-end PyTorch code produced while exploring foundational and advanced topics in deep learning.
 
 ## 🚀 About the Course
 
